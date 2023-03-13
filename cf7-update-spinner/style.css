@@ -1,0 +1,14 @@
+.wpcf7-spinner {
+  background-color: transparent;
+}
+.wpcf7-spinner::before {
+  background-image: url("spinner-white.svg");
+  height: 30px;
+  width: 30px;
+  top: -38px;
+  left: -25px;
+  background-color: transparent;
+  animation-duration: 0s;
+  animation-name: none;
+  animation-iteration-count: unset;
+}
